@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Mahdyar Ravanbakhsh"
 title_separator          : "-"
 name                     : &name "Mahdyar Ravanbakhsh"
 description              : &description "PostDoctoral Researcher at TU Berlin"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Mahdyar Ravanbakhsh"
-  avatar           : "profile.png"
+  avatar           : "avatar_s.png"
   bio              : "PostDoctoral Researcher"
   location         : "Berlin, Germany"
-  employer         :
-  pubmed           : "https://www.rsim.tu-berlin.de/menue/team/dr_sayyed_mahdyar_ravanbakhsh/"
+  employer         : "https://www.rsim.tu-berlin.de/menue/team/dr_sayyed_mahdyar_ravanbakhsh/"
+  pubmed           : #"https://www.rsim.tu-berlin.de/menue/team/dr_sayyed_mahdyar_ravanbakhsh/"
   googlescholar    : "https://scholar.google.com/citations?user=SI-w7jsAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mahdyarrb"
   vine             :
   weibo            :
   xing             :
